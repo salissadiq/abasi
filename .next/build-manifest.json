@@ -25,11 +25,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/student": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/student.js"
-    ],
     "/student/payment": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
